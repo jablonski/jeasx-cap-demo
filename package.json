@@ -1,0 +1,15 @@
+{
+  "name": "jeasx-cap",
+  "type": "module",
+  "scripts": {
+    "start": "jeasx start",
+    "build": "jeasx build",
+    "dev": "jeasx dev",
+    "clean": "jeasx clean"
+  },
+  "dependencies": {
+    "@cap.js/server": "2.0.0",
+    "@cap.js/widget": "0.1.25",
+    "jeasx": "1.8.4"
+  }
+}
