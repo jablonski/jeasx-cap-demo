@@ -10,6 +10,6 @@
   "dependencies": {
     "@cap.js/server": "3.0.0",
     "@cap.js/widget": "0.1.25",
-    "jeasx": "1.8.4"
+    "jeasx": "1.8.5"
   }
 }
