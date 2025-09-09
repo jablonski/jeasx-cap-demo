@@ -8,8 +8,8 @@
     "clean": "jeasx clean"
   },
   "dependencies": {
-    "@cap.js/server": "3.0.0",
-    "@cap.js/widget": "0.1.25",
+    "@cap.js/server": "3.0.1",
+    "@cap.js/widget": "0.1.28",
     "jeasx": "1.8.5"
   }
 }
